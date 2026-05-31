@@ -2,3 +2,5 @@ Demo users:
 
 - name: Alex Chen
   role: maintainer
+  status: active
+  notes: owns the sample workflow
