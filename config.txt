@@ -1,3 +1,4 @@
 app_name=git-workflow-demo
 environment=development
 log_level=info
+owner=demo-team
