@@ -1,3 +1,3 @@
 1. Review the sample project structure.
-2. Add a demo user profile.
+2. Verify the demo user profile.
 3. Tune the configuration notes.
