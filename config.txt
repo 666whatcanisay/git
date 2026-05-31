@@ -1,3 +1,5 @@
 app_name=git-workflow-demo
-environment=development
+environment=local
 log_level=info
+owner=demo-team
+feature_flags=user_notes
